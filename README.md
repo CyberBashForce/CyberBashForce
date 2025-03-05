@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mechanical Engineer passionate about UAVs, control systems, low-level coding, and web app security. Enthusiast of hardware-software integration and exploring how technology works at its core.
+𝙼𝚎𝚌𝚑𝚊𝚗𝚒𝚌𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚄𝙰𝚅𝚜, 𝚌𝚘𝚗𝚝𝚛𝚘𝚕 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚕𝚘𝚠-𝚕𝚎𝚟𝚎𝚕 𝚌𝚘𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚠𝚎𝚋 𝚊𝚙𝚙 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢. 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚘𝚏 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎-𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚑𝚘𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚠𝚘𝚛𝚔𝚜 𝚊𝚝 𝚒𝚝𝚜 𝚌𝚘𝚛𝚎.
 
 
 ## 🌐 Socials:
